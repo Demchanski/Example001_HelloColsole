@@ -1,0 +1,15 @@
+C:\GIT\Examples\Example001_HelloColsole\bin\Debug\net6.0\Example001_HelloColsole.exe
+C:\GIT\Examples\Example001_HelloColsole\bin\Debug\net6.0\Example001_HelloColsole.deps.json
+C:\GIT\Examples\Example001_HelloColsole\bin\Debug\net6.0\Example001_HelloColsole.runtimeconfig.json
+C:\GIT\Examples\Example001_HelloColsole\bin\Debug\net6.0\Example001_HelloColsole.dll
+C:\GIT\Examples\Example001_HelloColsole\bin\Debug\net6.0\Example001_HelloColsole.pdb
+C:\GIT\Examples\Example001_HelloColsole\obj\Debug\net6.0\Example001_HelloColsole.csproj.AssemblyReference.cache
+C:\GIT\Examples\Example001_HelloColsole\obj\Debug\net6.0\Example001_HelloColsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\Examples\Example001_HelloColsole\obj\Debug\net6.0\Example001_HelloColsole.AssemblyInfoInputs.cache
+C:\GIT\Examples\Example001_HelloColsole\obj\Debug\net6.0\Example001_HelloColsole.AssemblyInfo.cs
+C:\GIT\Examples\Example001_HelloColsole\obj\Debug\net6.0\Example001_HelloColsole.csproj.CoreCompileInputs.cache
+C:\GIT\Examples\Example001_HelloColsole\obj\Debug\net6.0\Example001_HelloColsole.dll
+C:\GIT\Examples\Example001_HelloColsole\obj\Debug\net6.0\refint\Example001_HelloColsole.dll
+C:\GIT\Examples\Example001_HelloColsole\obj\Debug\net6.0\Example001_HelloColsole.pdb
+C:\GIT\Examples\Example001_HelloColsole\obj\Debug\net6.0\Example001_HelloColsole.genruntimeconfig.cache
+C:\GIT\Examples\Example001_HelloColsole\obj\Debug\net6.0\ref\Example001_HelloColsole.dll
